@@ -1,2 +1,2 @@
-# swaks-script
+# Swaks-script
 Swaks - Swiss Army Knife for SMTP
